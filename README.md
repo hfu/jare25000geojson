@@ -1,2 +1,2 @@
 # jare25000geojson
-jare25000 in GeoJSON files
+http://github.com/hfu/jare25000 in GeoJSON files
