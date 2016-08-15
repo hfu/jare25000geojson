@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "図式コード": 2111, "標高": 109.59999999999999 }, "geometry": { "type": "Point", "coordinates": [ 38.273039884102182, -69.612724937822037 ] } },
+{ "type": "Feature", "properties": { "図式コード": 2112, "標高": 99.599999999999994 }, "geometry": { "type": "Point", "coordinates": [ 37.329496801230611, -69.731123109657517 ] } },
+{ "type": "Feature", "properties": { "図式コード": 2112, "標高": 41.700000000000003 }, "geometry": { "type": "Point", "coordinates": [ 37.110662977167237, -69.85616298301909 ] } },
+{ "type": "Feature", "properties": { "図式コード": 2102, "標高": 128.80000000000001 }, "geometry": { "type": "Point", "coordinates": [ 37.747220220796152, -69.690072055580188 ] } },
+{ "type": "Feature", "properties": { "図式コード": 2102, "標高": 133.59999999999999 }, "geometry": { "type": "Point", "coordinates": [ 37.765227400851586, -69.703134143555943 ] } },
+{ "type": "Feature", "properties": { "図式コード": 2102, "標高": 90.900000000000006 }, "geometry": { "type": "Point", "coordinates": [ 37.304228417729483, -69.734585340479597 ] } },
+{ "type": "Feature", "properties": { "図式コード": 2102, "標高": 38.5 }, "geometry": { "type": "Point", "coordinates": [ 37.290339839682751, -69.714347769623572 ] } },
+{ "type": "Feature", "properties": { "図式コード": 2102, "標高": 52.5 }, "geometry": { "type": "Point", "coordinates": [ 37.105117361770724, -69.85375292257639 ] } },
+{ "type": "Feature", "properties": { "図式コード": 2102, "標高": 130.69999999999999 }, "geometry": { "type": "Point", "coordinates": [ 37.123835403957536, -69.865262945489263 ] } },
+{ "type": "Feature", "properties": { "図式コード": 2102, "標高": 118.5 }, "geometry": { "type": "Point", "coordinates": [ 37.099045991108433, -69.859340139150277 ] } },
+{ "type": "Feature", "properties": { "図式コード": 2102, "標高": 51.899999999999999 }, "geometry": { "type": "Point", "coordinates": [ 36.988581810786293, -69.641239154475542 ] } },
+{ "type": "Feature", "properties": { "図式コード": 2102, "標高": 49.799999999999997 }, "geometry": { "type": "Point", "coordinates": [ 38.389041575902311, -69.623478954091979 ] } },
+{ "type": "Feature", "properties": { "図式コード": 2102, "標高": 208.30000000000001 }, "geometry": { "type": "Point", "coordinates": [ 38.275228698477989, -69.626899072825736 ] } }
+]
+}

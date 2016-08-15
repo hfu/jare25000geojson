@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ZUSHIKICD": 3212 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.6534828, -69.2407733 ], [ 39.653318, -69.2407468 ], [ 39.65318681, -69.2407105 ], [ 39.6530931, -69.2406847 ] ] } }
+]
+}

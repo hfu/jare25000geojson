@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ZUSHIKICD": 8302 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.78842385, -69.60245872 ], [ 39.78804561, -69.6023727 ] ] } },
+{ "type": "Feature", "properties": { "ZUSHIKICD": 8302 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.78804561, -69.6023727 ], [ 39.78770306, -69.6022965 ] ] } },
+{ "type": "Feature", "properties": { "ZUSHIKICD": 8302 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.78842385, -69.60245872 ], [ 39.78804561, -69.6023727 ] ] } },
+{ "type": "Feature", "properties": { "ZUSHIKICD": 8302 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.78804561, -69.6023727 ], [ 39.78770306, -69.6022965 ] ] } },
+{ "type": "Feature", "properties": { "ZUSHIKICD": 8302 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.55991639, -69.6439667 ], [ 39.55927521, -69.6440442 ] ] } },
+{ "type": "Feature", "properties": { "ZUSHIKICD": 8302 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.61522409, -69.6463109 ], [ 39.61428049, -69.6465782 ] ] } },
+{ "type": "Feature", "properties": { "ZUSHIKICD": 8302 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.3989179, -69.6863844 ], [ 39.39831079, -69.686718 ] ] } },
+{ "type": "Feature", "properties": { "ZUSHIKICD": 8302 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.3989179, -69.6863844 ], [ 39.39831079, -69.686718 ] ] } },
+{ "type": "Feature", "properties": { "ZUSHIKICD": 8302 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.55991639, -69.6439667 ], [ 39.55927521, -69.6440442 ] ] } },
+{ "type": "Feature", "properties": { "ZUSHIKICD": 8302 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.61522409, -69.6463109 ], [ 39.61428049, -69.6465782 ] ] } },
+{ "type": "Feature", "properties": { "ZUSHIKICD": 8302 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.3989179, -69.6863844 ], [ 39.39831079, -69.686718 ] ] } },
+{ "type": "Feature", "properties": { "ZUSHIKICD": 8302 }, "geometry": { "type": "LineString", "coordinates": [ [ 39.3989179, -69.6863844 ], [ 39.39831079, -69.686718 ] ] } }
+]
+}
